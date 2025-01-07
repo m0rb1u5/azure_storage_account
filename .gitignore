@@ -151,3 +151,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,linux,windows,macos,terraform,vim
+
+## Like example. Don't versioning these files in normal project
+!terraform.tfvars
+!variables.auto.tfvars
