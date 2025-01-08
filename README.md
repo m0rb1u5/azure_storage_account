@@ -36,3 +36,8 @@ Comments:
 ## Destroy Resources
 
 Just run the command: `terraform destroy`
+
+## Outputs
+
+- To print all outputs: `terraform output`
+- To print specific output: `terraform output -raw {{output_name}}`
